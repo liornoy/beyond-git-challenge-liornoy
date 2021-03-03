@@ -3,3 +3,14 @@ mauris. Nam iaculis ac eros eget bibendum. Phasellus
 egestas fringilla libero sed viverra.
 
 CHANGED BY MAINTAINER
+
+Proin hendrerit convallis nibh ac gravida. Integer
+placerat
+accumsan nibh, vitae bibendum urna ullamcorper in.
+
+<<<<<<< HEAD
+ADDED BY CONTRIBUTOR
+
+=======
+ADDED BY CONTRIBUTOR
+>>>>>>> 8706421ca9f6bdcd1c6b01f129f8aea6b99d0d67

@@ -4,8 +4,11 @@ Maecenas mauris eros, sollicitudin at elit in,
 pellentesque
 mattis orci. Aliquam elementum finibus dictum.
 
+<<<<<<< HEAD
 CHANGED BY MAINTAINER
 
+=======
+>>>>>>> 8706421ca9f6bdcd1c6b01f129f8aea6b99d0d67
 CHANGED BY CONTRIBUTOR
 
 Integer ac nibh nec est porttitor semper ultrices eu
